@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 url = "2.5.8"
 websocket = {version = "*"}
+tokio = {version="1", features=["full"]}
